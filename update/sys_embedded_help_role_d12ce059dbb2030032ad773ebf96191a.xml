@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_hotel.reservation_user" name="x_hotel.reservation_user">592ce059dbb2030032ad773ebf961918</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>luke.marsh</sys_created_by>
+        <sys_created_on>2017-12-01 19:31:47</sys_created_on>
+        <sys_id>d12ce059dbb2030032ad773ebf96191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>592ce059dbb2030032ad773ebf961918</sys_name>
+        <sys_package display_value="Hotel" source="x_hotel">a8f395beebc522004fcde08a5206fe2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel">a8f395beebc522004fcde08a5206fe2e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d12ce059dbb2030032ad773ebf96191a</sys_update_name>
+        <sys_updated_by>luke.marsh</sys_updated_by>
+        <sys_updated_on>2017-12-01 19:31:47</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
